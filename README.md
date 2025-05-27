@@ -29,10 +29,13 @@ To run the project locally:
 
 
 ## 📁 Project Structure
-todo-list/
+```todo-list/
 ├── index.html      # Main HTML file
 ├── style.css       # Styling for the app
 └── script.js       # JavaScript functionality
+```
+
+   
 ## 📄 License
 
 This project is open-source and available for use and modification.
